@@ -1,3 +1,2 @@
-# teamproject_3
+SpendLog System mobile application
 
-A new Flutter project.
