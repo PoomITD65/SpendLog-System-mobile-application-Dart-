@@ -1,2 +1,1 @@
-SpendLog System mobile application
 
